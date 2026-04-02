@@ -1,2 +1,2 @@
-SPDX-License-Identifier: LicenseRef-JNOL-OpenViz-1.0
+SPDX-License-Identifier: LicenseRef-JNOL-ARVTIF-1.0
 
