@@ -1,6 +1,6 @@
-JNOL INDUSTRIES OPENVIZ LICENSE v1.0
+JNOL INDUSTRIES ARVTIF LICENSE v1.0
 
-SPDX-License-Identifier: LicenseRef-JNOL-OpenViz-1.0
+SPDX-License-Identifier: LicenseRef-JNOL-ARVTIF-1.0
 
 Copyright (c) 2026 JNOL Industries
 
@@ -8,7 +8,7 @@ Copyright (c) 2026 JNOL Industries
 
 1. GRANT OF LICENSE
 
-This license governs use of OpenViz software ("Software") distributed by JNOL Industries.
+This license governs use of ARVTIF software ("Software") distributed by JNOL Industries.
 
 The Software is provided in three tiers:
 
@@ -27,7 +27,7 @@ You may:
 You may NOT:
 - Remove attribution to JNOL Industries
 - Rebrand or redistribute as a competing product
-- Provide hosted services substantially similar to OpenViz without authorization
+- Provide hosted services substantially similar to ARVTIF without authorization
 - Sell the Software or derivatives without a commercial agreement
 
 ---
@@ -64,7 +64,7 @@ Any commercial use of OpenViz requires a valid commercial agreement.
 
 Default terms (unless overridden by contract):
 - 20% revenue share of gross revenue derived using OpenViz
-- OR 30% where OpenViz is primary production infrastructure
+- OR 30% where ARVTIF is primary production infrastructure
 - Minimum fee: 500 USD/month per entity
 
 ---
@@ -73,7 +73,7 @@ Default terms (unless overridden by contract):
 
 All deployments must display:
 
-"Built with OpenViz by JNOL Industries"
+"Built with ARVTIF by JNOL Industries"
 
 Attribution must appear in:
 - Application UI
